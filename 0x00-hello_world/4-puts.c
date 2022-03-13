@@ -2,9 +2,12 @@
 
 /*
  *  main - Entry point
- *   Return: Always 0 (Success)
+ *Return: Always 0 (Success)
+*
+* void main - Short descriptio
+*@puts:first members
  *
- */
+ * /
 
 int main(void)
 {
